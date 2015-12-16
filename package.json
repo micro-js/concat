@@ -1,5 +1,5 @@
 {
-  "name": "@micro-js/concat",
+  "name": "@f/concat",
   "description": "Functional version of Array.prototype.concat",
   "repository": "git://github.com/micro-js/concat.git",
   "version": "1.0.0",

@@ -10,12 +10,12 @@ Functional version of Array.prototype.concat
 
 ## Installation
 
-    $ npm install @micro-js/concat
+    $ npm install @f/concat
 
 ## Usage
 
 ```js
-var concat = require('@micro-js/concat')
+var concat = require('@f/concat')
 
 concat([1], [2] // -> [1, 2]
 concat([1], 2)  // -> [1, 2]
@@ -40,5 +40,5 @@ MIT
 [git-url]: https://github.com/micro-js/concat
 [standard-image]: https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat
 [standard-url]: https://github.com/feross/standard
-[npm-image]: https://img.shields.io/npm/v/@micro-js/concat.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/@micro-js/concat
+[npm-image]: https://img.shields.io/npm/v/@f/concat.svg?style=flat-square
+[npm-url]: https://npmjs.org/package/@f/concat
